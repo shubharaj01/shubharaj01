@@ -50,21 +50,6 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 </p>
 
 ---
-## 📊 GitHub Stats (Soft Aesthetic)
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-</p>
-
----
-
-## 💗 Most Used Languages
-
-<p align="left">
-  <img src="https://vercel.app" alt="Most Used Languages" height="150" />
-</p>
-
----
 
 ## GitHub Streak
 
