@@ -9,11 +9,7 @@ Exploring AI, Machine Learning, Cloud Computing & Software Development
 </p>
 
 <p align="center">
-<i>"Learning with curiosity, building with purpose."</i>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=B784F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Cloud+Computing;Software+Development;Always+Learning+Something+New+🌸"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+with+curiosity%2C+building+with+purpose.;Always+exploring+new+possibilities.;Turning+ideas+into+meaningful+solutions." />
 </p>
 
 ---
