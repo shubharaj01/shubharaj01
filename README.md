@@ -50,19 +50,18 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 </p>
 
 ---
-
-## GitHub Stats
+## 📊 GitHub Stats (Soft Aesthetic)
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubharaj01&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## Most Used Languages
+## 💗 Most Used Languages
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharaj01&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -107,9 +106,8 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M2b2Q3bDl2dWQ2bzdjZWV2bXdjNWF0aTVkMXFkYTRlbmY1b2Z5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="40"/>
-
-  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=FADADD&center=true&vCenter=true&width=420&lines=See+you+in+the+next+commit" />
+</p>
 
   <i>See you in the next commit...</i>
 </p>
