@@ -1,13 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=14,18,20&text=M%20V%20Shubha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-<h1 align="center">Welcome to my GitHub! 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=14,18,20&text=M%20V%20Shubha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<h3 align="center">
-Exploring AI, Machine Learning, Cloud Computing & Software Development
-</h3>
+<h2 align="center">
+🌸 Welcome to my GitHub! 🌸
+</h2>
+
+<p align="center">
+AI • Machine Learning • Cloud Computing • Software Development
+</p>
 
 <p align="center">
 <i>"Learning with curiosity, building with purpose."</i>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=B784F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Cloud+Computing;Software+Development;Always+Learning+Something+New+🌸" />
+</p>
 </p>
 
 ---
