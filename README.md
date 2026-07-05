@@ -53,7 +53,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 ## 📊 GitHub Stats (Soft Aesthetic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubharaj01&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 ## 💗 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharaj01&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -95,11 +95,11 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 ## Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/m-v-shubha-89611341a">
 <img src="https://img.shields.io/badge/LinkedIn-E8C7E8?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:shubharaj1924@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-F8D7DA?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 </p>
