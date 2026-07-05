@@ -52,16 +52,16 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 ---
 ## 📊 GitHub Stats (Soft Aesthetic)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubharaj01&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
 </p>
 
 ---
 
 ## 💗 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharaj01&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
+<p align="left">
+  <img src="https://vercel.app" alt="Most Used Languages" height="150" />
 </p>
 
 ---
