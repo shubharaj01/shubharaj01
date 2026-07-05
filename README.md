@@ -1,23 +1,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=14,18,20&text=M%20V%20Shubha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<h1 align="center">Welcome to my GitHub! 👋</h1>
 
-<h1 align="center">Hi there, I'm M V Shubha 👋</h1>
-
-
-<p align="center">
-🤖 AI & Machine Learning • ☁️ Cloud Computing • 💻 Software Development
-</p>
+<h3 align="center">
+Exploring AI, Machine Learning, Cloud Computing & Software Development
+</h3>
 
 <p align="center">
 <i>"Learning with curiosity, building with purpose."</i>
 </p>
-
 ---
 
 ## 🌸 About Me
 
-I'm a final-year Computer Science Engineering student with a growing interest in Artificial Intelligence, Machine Learning, Prompt Engineering, and Cloud Computing. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills through hands-on projects.
+I'm a ISE student with a growing interest in Artificial Intelligence, Machine Learning, Prompt Engineering, and Cloud Computing. I enjoy learning new technologies, solving real world problems, and continuously improving my skills through hands-on projects.
 
 Alongside technology, I'm also exploring the Japanese language and culture, believing that continuous learning opens new opportunities.
 
