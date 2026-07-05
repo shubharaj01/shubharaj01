@@ -2,14 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,18,20&text=M%20V%20Shubha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h2 align="center">Welcome to my GitHub! 🌸</h2>
+<h2 align="center">🌸 Welcome to My Digital Workspace 🌸</h2>
 
 <p align="center">
-Exploring AI, Machine Learning, Cloud Computing & Software Development
+<p align="center">
+<p align="center">
+A collection of ideas, experiments, and everything I'm learning along the way.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+with+curiosity%2C+building+with+purpose.;Always+exploring+new+possibilities.;Turning+ideas+into+meaningful+solutions." />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&duration=4000&pause=1200&color=C084FC&center=true&vCenter=true&width=750&lines=Documenting+my+journey%2C+one+commit+at+a+time."/>
 </p>
 
 ---
