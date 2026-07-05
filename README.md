@@ -79,7 +79,9 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubharaj01&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=fadadd&area=true&hide_border=true&custom_title=Shubha's%20Contribution%20Graph" />
 </p>
+
 ---
+
 ## Currently Exploring
 
 - 🤖 Multi-Agent AI Systems
@@ -106,7 +108,3 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=FADADD&center=true&vCenter=true&width=420&lines=See+you+in+the+next+commit" />
-</p>
-
-  <i>See you in the next commit...</i>
-</p>
