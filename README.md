@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:9370DB&height=220&section=header&text=MV%20Shubha&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MV Shubha</h1>
+<h1 align="center">Hello 👋, I'm M V Shubha</h1>
 
 <h3 align="center">
-Final Year Computer Science Engineering Student | AI Enthusiast | Lifelong Learner
+Information Science And Engineering Student | AI Enthusiast | Lifelong Learner
 </h3>
 
 <p align="center">
@@ -16,11 +16,11 @@ Final Year Computer Science Engineering Student | AI Enthusiast | Lifelong Learn
 
 ## 🌸 About Me
 
-- 🎓 Final Year B.Tech Computer Science Engineering Student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- ☁️ Exploring Cloud Computing and modern software development
-- 🇯🇵 Learning Japanese alongside my technical journey
-- 🌱 Always learning and building new skills
+🎓 Final Year B.Tech Computer Science Engineering Student
+🤖 Interested in Artificial Intelligence and Machine Learning
+☁️ Exploring Cloud Computing and modern software development
+🇯🇵 Learning Japanese alongside my technical journey
+🌱 Always learning and building new skills
 
 ---
 
