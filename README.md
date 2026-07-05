@@ -37,5 +37,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: *https://www.linkedin.com/in/m-v-shubha-89611341a?utm_source=share_via&utm_content=profile&utm_medium=member_android*
+- LinkedIn: *https://www.linkedin.com/in/m-v-shubha-89611341a*
 - Email: *shubharaj1924@gmail.com*
