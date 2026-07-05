@@ -100,7 +100,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 <img src="https://img.shields.io/badge/LinkedIn-E8C7E8?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:shubharaj19242gmal.com">
 <img src="https://img.shields.io/badge/Gmail-F8D7DA?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 </p>
