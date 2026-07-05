@@ -9,6 +9,7 @@ Exploring AI, Machine Learning, Cloud Computing & Software Development
 <p align="center">
 <i>"Learning with curiosity, building with purpose."</i>
 </p>
+
 ---
 
 ## 🌸 About Me
@@ -84,11 +85,11 @@ Alongside technology, I'm also exploring the Japanese language and culture, beli
 ## 📫 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/m-v-shubha-89611341a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shubharaj1924@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
