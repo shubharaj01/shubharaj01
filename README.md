@@ -16,11 +16,11 @@ Information Science And Engineering Student | AI Enthusiast | Lifelong Learner
 
 ## 🌸 About Me
 
-🎓 Final Year B.Tech Computer Science Engineering Student
-🤖 Interested in Artificial Intelligence and Machine Learning
-☁️ Exploring Cloud Computing and modern software development
-🇯🇵 Learning Japanese alongside my technical journey
-🌱 Always learning and building new skills
+-🎓 Final Year B.Tech Computer Science Engineering Student
+-🤖 Interested in Artificial Intelligence and Machine Learning
+-☁️ Exploring Cloud Computing and modern software development
+-🇯🇵 Learning Japanese alongside my technical journey
+-🌱 Always learning and building new skills
 
 ---
 
@@ -50,7 +50,7 @@ Information Science And Engineering Student | AI Enthusiast | Lifelong Learner
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubharaj01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubharaj01&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ Information Science And Engineering Student | AI Enthusiast | Lifelong Learner
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharaj01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharaj01&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
