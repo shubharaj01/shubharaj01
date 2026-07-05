@@ -77,7 +77,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubharaj01&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=ffffff&area=false&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffb6c1&line=ffc0cb&point=fadadd&area=true&hide_border=true" />
 </p>
 
 ---
