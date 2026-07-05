@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,18,20&text=M%20V%20Shubha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h2 align="center">🌸 Welcome to My Digital Workspace 🌸</h2>
+<h2 align="center">Welcome to My Digital Workspace</h2>
 
 <p align="center">
 A collection of ideas, experiments, and everything I'm learning along the way.
@@ -14,7 +14,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ---
 
-# 🌸 About Me
+## About Me
 
 I'm passionate about building thoughtful solutions using **Artificial Intelligence, Machine Learning, Cloud Computing, and Software Development**.
 
@@ -22,9 +22,9 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-### 👩🏻‍💻 Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,7 +32,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
-### 🤖 AI & Development
+### AI & Development
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -40,7 +40,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -51,7 +51,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubharaj01&show_icons=true&theme=rose_pine&hide_border=true"/>
@@ -59,7 +59,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 ---
 
-# 💜 Most Used Languages
+## Most Used Languages
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharaj01&layout=compact&theme=rose_pine&hide_border=true"/>
@@ -67,7 +67,7 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 ---
 
-# 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=shubharaj01&theme=rose-pine&hide_border=true"/>
@@ -75,32 +75,24 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubharaj01&theme=github-light&hide_border=true"/>
-</p>
-
----
-
-# 🌱 Currently Learning
+## Currently Exploring
 
 - 🤖 Multi-Agent AI Systems
 - 🧠 Machine Learning
-- ☁️ Cloud Technologies
-- 🏗️ System Design
+- ☁️ Cloud Computing
+- 🏗️ Web Development
 - 🇯🇵 Japanese Language
 
 ---
 
-# 📫 Connect With Me
+## Connect With Me
 
 <p>
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-E8C7E8?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:shubharaj19242gmal.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-F8D7DA?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 </p>
@@ -109,10 +101,6 @@ I enjoy learning new technologies, collaborating on meaningful projects, and tur
 
 <p align="center">
 
-🌸
-
-<b>See you in the next commit...</b>
-
-☁️
+<i>See you in the next commit...</i>
 
 </p>
