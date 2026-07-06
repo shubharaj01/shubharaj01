@@ -36,28 +36,29 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 ### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/C-F8C8DC?style=for-the-badge&logo=c&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Python-E8AFC2?style=for-the-badge&logo=python&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/Java-E8AFC2?style=for-the-badge&logo=openjdk&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/C-E8AFC2?style=for-the-badge&logo=c&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-E8AFC2?style=for-the-badge&logo=cplusplus&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
 </p>
 
 ### AI & Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-F8C8DC?style=for-the-badge&logo=tensorflow&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/FastAPI-F8C8DC?style=for-the-badge&logo=fastapi&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-F8C8DC?style=for-the-badge&logo=openai&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-E8AFC2?style=for-the-badge&logo=tensorflow&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/FastAPI-E8AFC2?style=for-the-badge&logo=fastapi&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-E8AFC2?style=for-the-badge&logo=openai&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-E8AFC2?style=for-the-badge&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
 </p>
 
 ### Cloud & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloud%20Computing-F8C8DC?style=for-the-badge&logo=icloud&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/Git-F8C8DC?style=for-the-badge&logo=git&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/GitHub-F8C8DC?style=for-the-badge&logo=github&logoColor=3B2A35&labelColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/VS%20Code-F8C8DC?style=for-the-badge&logo=visualstudiocode&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-E8AFC2?style=for-the-badge&logo=icloud&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/Git-E8AFC2?style=for-the-badge&logo=git&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/GitHub-E8AFC2?style=for-the-badge&logo=github&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/VS%20Code-E8AFC2?style=for-the-badge&logo=visualstudiocode&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
 </p>
-
 ---
 
 ## GitHub Streak
