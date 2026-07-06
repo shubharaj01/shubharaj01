@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=Gradient&text=Hello,%20World!&fontSize=46&fontColor=F8BBD0&animation=fadeIn&fontAlignY=40&reversal=true"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=27,28,29,30&text=Hello,%20World!&fontSize=46&fontColor=000000&animation=fadeIn&fontAlignY=40&reversal=true"
     width="100%"
     alt="Hello, World!"
   />
 </p>
+
 <h2 align="center">Welcome to My Digital Workspace</h2>
 
 <p align="center">
