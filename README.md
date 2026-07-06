@@ -25,14 +25,13 @@ I'm someone who enjoys breaking down complex ideas, learning new technologies, a
 
 <br>
 
-**Areas of Interest**
+**Areas of Interest:**&nbsp;
+<img src="https://img.shields.io/badge/AI-3B2436?style=for-the-badge&logo=openai&logoColor=F8C8DC"/>
+<img src="https://img.shields.io/badge/ML-3B2436?style=for-the-badge&logo=tensorflow&logoColor=F8C8DC"/>
+<img src="https://img.shields.io/badge/Cloud-3B2436?style=for-the-badge&logo=icloud&logoColor=F8C8DC"/>
+<img src="https://img.shields.io/badge/Backend-3B2436?style=for-the-badge&logo=fastapi&logoColor=F8C8DC"/>
 
-<p>
-  <img src="https://img.shields.io/badge/AI-3B2436?style=for-the-badge&logo=openai&logoColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/ML-3B2436?style=for-the-badge&logo=tensorflow&logoColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/Cloud-3B2436?style=for-the-badge&logo=icloud&logoColor=F8C8DC"/>
-  <img src="https://img.shields.io/badge/Backend-3B2436?style=for-the-badge&logo=fastapi&logoColor=F8C8DC"/>
-</p>
+<br><br>
 
 Beyond code, you'll often find me learning Japanese or exploring something completely new because I believe growth comes from staying curious.
 
