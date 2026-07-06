@@ -94,16 +94,6 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 ---
 
-## Currently Exploring
-
-- 🤖 Multi-Agent AI Systems
-- 🧠 Machine Learning
-- ☁️ Cloud Computing
-- 🏗️ Backend Development
-- 🇯🇵 Japanese Language
-
----
-
 ## Connect With Me
 
 <p align="left">
