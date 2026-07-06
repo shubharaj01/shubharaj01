@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,18,20&text=M%20V%20Shubha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=25,26,27,30&text=workspace/&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=where%20ideas%20become%20projects&descAlign=50&descAlignY=58&animation=fadeIn"
+/>
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
