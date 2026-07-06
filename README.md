@@ -19,7 +19,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 <table>
 <tr>
 
-<td width="68%" valign="top">
+<td width="70%" valign="top">
 
 I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact.
 
@@ -35,15 +35,14 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 </td>
 
-<td width="32%" align="center">
+<td width="30%" align="center">
 
-<img src="YOUR_GIF_URL" width="220"/>
+<img src="YOUR_GIF_URL" width="190"/>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## Tech Stack
