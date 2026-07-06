@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1200&color=2E2E2E&center=true&vCenter=true&width=650&height=80&lines=%E2%97%8F+%E2%97%8F+%E2%97%8F++README.md;%3CHello%2C+World!+%2F%3E" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A94593&width=435&lines=%3CHello%2C+World!+%2F%3E" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
