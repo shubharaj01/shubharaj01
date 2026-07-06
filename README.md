@@ -23,7 +23,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 <table>
 <tr>
 
-<td width="68%" valign="top">
+<td width="68%" valign="top"><br>
 
 I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact.
 
