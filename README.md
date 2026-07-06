@@ -31,39 +31,32 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ---
 
-```text
-┌─ Tech Stack ──────────────────────────────────────────────────────────────────────┐
-```
+## Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F7C6D9?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=c&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/C-F8C8DC?style=for-the-badge&logo=c&logoColor=3B2A35&labelColor=F8C8DC"/>
 </p>
 
 ### AI & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="42"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="42"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="42"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F8C8DC?style=for-the-badge&logo=tensorflow&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/FastAPI-F8C8DC?style=for-the-badge&logo=fastapi&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-F8C8DC?style=for-the-badge&logo=openai&logoColor=3B2A35&labelColor=F8C8DC"/>
 </p>
 
 ### Cloud & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="42"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="42"/>
-  <img src="https://skillicons.dev/icons?i=git" height="42"/>
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-F8C8DC?style=for-the-badge&logo=icloud&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Git-F8C8DC?style=for-the-badge&logo=git&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/GitHub-F8C8DC?style=for-the-badge&logo=github&logoColor=3B2A35&labelColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/VS%20Code-F8C8DC?style=for-the-badge&logo=visualstudiocode&logoColor=3B2A35&labelColor=F8C8DC"/>
 </p>
-
-```text
-└───────────────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
