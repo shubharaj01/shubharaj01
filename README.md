@@ -90,32 +90,19 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ## Connect With Me
 
-<table>
-<tr>
+<p align="left">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-2D1F2D?style=for-the-badge&logo=github&logoColor=F8C8DC"/>
+  </a>
 
-<td align="center">
-<a href="https://github.com/yourusername">
-<img src="https://cdn.simpleicons.org/github/F8C8DC" width="38"><br>
-<b>GitHub</b>
-</a>
-</td>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-2D1F2D?style=for-the-badge&logo=linkedin&logoColor=F8C8DC"/>
+  </a>
 
-<td align="center">
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://cdn.simpleicons.org/linkedin/F8C8DC" width="38"><br>
-<b>LinkedIn</b>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:your@email.com">
-<img src="https://cdn.simpleicons.org/gmail/F8C8DC" width="38"><br>
-<b>Email</b>
-</a>
-</td>
-
-</tr>
-</table>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-2D1F2D?style=for-the-badge&logo=gmail&logoColor=F8C8DC"/>
+  </a>
+</p>
 
 ---
 
