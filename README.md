@@ -16,18 +16,20 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ## 🌸 About Me
 
-<details open>
-<summary><b>💭 Click to know a little about me</b></summary>
+```text
+╭──────────────────────────────────────────────────────────────────────────────────╮
 
-<br>
+  I'm someone who enjoys breaking down complex ideas, learning new
+  technologies, and building solutions that make a real impact.
 
-**Curiosity is what drives me.**
+  Focus Areas:
+  Artificial Intelligence • Machine Learning • Cloud Computing • Backend Development
 
-I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact. My interests revolve around **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Backend Development**.
+  Beyond code, you'll often find me learning Japanese or exploring
+  something completely new because I believe growth comes from staying curious.
 
-Beyond code, you'll often find me learning **Japanese 🇯🇵** or exploring something completely new—because I believe growth comes from staying curious.
-
-</details>
+╰──────────────────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
