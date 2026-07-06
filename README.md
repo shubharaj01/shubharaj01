@@ -37,7 +37,7 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 <td width="32%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 
 </td>
 
