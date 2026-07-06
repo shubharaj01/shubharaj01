@@ -23,12 +23,12 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 <table>
 <tr>
 
-<td width="68%" valign="top"><br>
+<td width="65%" valign="top"><br>
 
 I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact.
 
 <p align="left">
-<strong>Areas of Interest: </strong><br>
+<strong>Areas of Interest : </strong><br>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-3B2436?style=flat&logo=openai&logoColor=F8C8DC"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-3B2436?style=flat&logo=tensorflow&logoColor=F8C8DC"/>
 <img src="https://img.shields.io/badge/Cloud-3B2436?style=flat&logo=icloud&logoColor=F8C8DC"/>
