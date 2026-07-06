@@ -91,16 +91,20 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/m-v-shubha-89611341a">
-    <img src="https://img.shields.io/badge/LinkedIn-2D1F2D?style=for-the-badge&logo=linkedin&logoColor=F8C8DC" />
+  <a href="mailto:shubharaj1924@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-3B2436?style=for-the-badge&logo=gmail&logoColor=F8C8DC" alt="Gmail"/>
   </a>
 
-  <a href="mailto:shubharaj1924@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2D1F2D?style=for-the-badge&logo=gmail&logoColor=F8C8DC" />
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/m-v-shubha-89611341a">
+    <img src="https://img.shields.io/badge/LinkedIn-3B2436?style=for-the-badge&logo=linkedin&logoColor=F8C8DC" alt="LinkedIn"/>
   </a>
+
+  &nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/shubha_raj/">
-    <img src="https://img.shields.io/badge/LeetCode-2D1F2D?style=for-the-badge&logo=leetcode&logoColor=F8C8DC" />
+    <img src="https://img.shields.io/badge/LeetCode-3B2436?style=for-the-badge&logo=leetcode&logoColor=F8C8DC" alt="LeetCode"/>
   </a>
 </p>
 
