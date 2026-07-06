@@ -9,7 +9,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=F8BBD0&center=true&vCenter=true&width=650&lines=Turning+%22what+if%3F%22+into+%22what%27s+next%3F%22." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=F8BBD0&center=true&vCenter=true&width=650&lines=Turning+%22what+if%3F%22+into+%22what%27s+next%3F%22." />
 </p>
 
 ---
