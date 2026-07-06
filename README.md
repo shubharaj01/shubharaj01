@@ -1,9 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,26,27,30&height=180&section=header&text=main()&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=52&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=25,26,27,30&text=main()&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     alt="main() banner"
   />
-</p>
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
