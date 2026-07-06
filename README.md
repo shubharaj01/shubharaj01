@@ -115,4 +115,4 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=FADADD&center=true&vCenter=true&width=420&lines=See+you+in+the+next+commit!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Code&size=18&pause=1200&color=FADADD&center=true&vCenter=true&width=420&lines=See+you+in+the+next+commit!" />
