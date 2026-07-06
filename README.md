@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=25,26,27,30&text=main()&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&customColorList=25,26,27,30&text=main()&fontSize=50&fontColor=ffffff&animation=fadeIn"
     alt="main() banner"
   />
 </p>
