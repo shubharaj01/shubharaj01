@@ -36,28 +36,28 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 ### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-E8AFC2?style=for-the-badge&logo=python&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/Java-E8AFC2?style=for-the-badge&logo=openjdk&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/C-E8AFC2?style=for-the-badge&logo=c&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-E8AFC2?style=for-the-badge&logo=cplusplus&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/Python-3B2436?style=for-the-badge&logo=python&logoColor=F8C8DC" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-3B2436?style=for-the-badge&logo=openjdk&logoColor=F8C8DC" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-3B2436?style=for-the-badge&logo=c&logoColor=F8C8DC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-3B2436?style=for-the-badge&logo=cplusplus&logoColor=F8C8DC" alt="C++"/>
 </p>
 
 ### AI & Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-E8AFC2?style=for-the-badge&logo=tensorflow&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/FastAPI-E8AFC2?style=for-the-badge&logo=fastapi&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-E8AFC2?style=for-the-badge&logo=openai&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-E8AFC2?style=for-the-badge&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-3B2436?style=for-the-badge&logo=tensorflow&logoColor=F8C8DC" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/FastAPI-3B2436?style=for-the-badge&logo=fastapi&logoColor=F8C8DC" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-3B2436?style=for-the-badge&logo=openai&logoColor=F8C8DC" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-3B2436?style=for-the-badge&logoColor=F8C8DC" alt="Data Structures"/>
 </p>
 
 ### Cloud & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloud%20Computing-E8AFC2?style=for-the-badge&logo=icloud&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/Git-E8AFC2?style=for-the-badge&logo=git&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/GitHub-E8AFC2?style=for-the-badge&logo=github&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
-  <img src="https://img.shields.io/badge/VS%20Code-E8AFC2?style=for-the-badge&logo=visualstudiocode&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
+  <img src="https://img.shields.io/badge/AWS-3B2436?style=for-the-badge&logo=amazonaws&logoColor=F8C8DC" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-3B2436?style=for-the-badge&logo=git&logoColor=F8C8DC" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-3B2436?style=for-the-badge&logo=github&logoColor=F8C8DC" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-3B2436?style=for-the-badge&logo=visualstudiocode&logoColor=F8C8DC" alt="VS Code"/>
 </p>
 
 ---
