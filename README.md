@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=14,17,19,24&text=hello,%20world.&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42"
-    width="100%"
-  />
+  <img src="./assets/banner.svg" alt="Banner" width="100%" />
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
