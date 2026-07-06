@@ -1,32 +1,9 @@
 <p align="center">
-<p align="center">
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFD6E7"/>
-      <stop offset="50%" stop-color="#F8E8FF"/>
-      <stop offset="100%" stop-color="#EED9FF"/>
-    </linearGradient>
-  </defs>
-
-  <rect x="10" y="10" width="880" height="160" rx="24" fill="url(#bg)"/>
-
-  <circle cx="40" cy="38" r="6" fill="#FF8FA3"/>
-  <circle cx="60" cy="38" r="6" fill="#FFD166"/>
-  <circle cx="80" cy="38" r="6" fill="#95D5B2"/>
-
-  <text
-    x="450"
-    y="105"
-    text-anchor="middle"
-    font-size="34"
-    font-family="JetBrains Mono, monospace"
-    fill="#5A4A5C">
-    portfolio.dev
-  </text>
-
-</svg>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,26,27,30&height=180&section=header&text=main()&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=52&animation=fadeIn"
+    alt="main() banner"
+  />
+</p>
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
