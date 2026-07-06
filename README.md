@@ -91,16 +91,16 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 ## Connect With Me
 
 <p align="left">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-2D1F2D?style=for-the-badge&logo=github&logoColor=F8C8DC"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2D1F2D?style=for-the-badge&logo=linkedin&logoColor=F8C8DC" />
   </a>
 
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-2D1F2D?style=for-the-badge&logo=linkedin&logoColor=F8C8DC"/>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2D1F2D?style=for-the-badge&logo=gmail&logoColor=F8C8DC" />
   </a>
 
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-2D1F2D?style=for-the-badge&logo=gmail&logoColor=F8C8DC"/>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-2D1F2D?style=for-the-badge&logo=leetcode&logoColor=F8C8DC" />
   </a>
 </p>
 
