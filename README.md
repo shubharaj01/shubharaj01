@@ -24,7 +24,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact.
 
 <p align="left">
-<strong>Areas of Interest:</strong>
+<strong>Areas of Interest: </strong>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-3B2436?style=flat&logo=openai&logoColor=F8C8DC"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-3B2436?style=flat&logo=tensorflow&logoColor=F8C8DC"/>
 <img src="https://img.shields.io/badge/Cloud-3B2436?style=flat&logo=icloud&logoColor=F8C8DC"/>
@@ -37,7 +37,7 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 <td width="32%" align="center" valign="middle">
 
-<img src="YOUR_GIF_URL" width="210"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
 </td>
 
