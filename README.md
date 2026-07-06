@@ -14,11 +14,20 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ---
 
-## About Me
+## 🌸 About Me
 
-I'm passionate about building thoughtful solutions using **Artificial Intelligence, Machine Learning, Cloud Computing, and Software Development**.
+<details open>
+<summary><b>💭 Click to know a little about me</b></summary>
 
-I enjoy learning new technologies, collaborating on meaningful projects, and turning ideas into practical solutions. Alongside technology, I'm also exploring the **Japanese language and culture**, always looking for opportunities to learn and grow.
+<br>
+
+**Curiosity is what drives me.**
+
+I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact. My interests revolve around **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Backend Development**.
+
+Beyond code, you'll often find me learning **Japanese 🇯🇵** or exploring something completely new—because I believe growth comes from staying curious.
+
+</details>
 
 ---
 
