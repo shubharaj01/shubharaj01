@@ -19,8 +19,8 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 ```text
 ╭──────────────────────────────────────────────────────────────────────────────────╮
 
-  I'm someone who enjoys breaking down complex ideas, learning new
-  technologies, and building solutions that make a real impact.
+  I'm someone who enjoys breaking down complex ideas, learning new technologies,
+  and building solutions that make a real impact.
 
   Focus Areas:
   Artificial Intelligence • Machine Learning • Cloud Computing • Backend Development
