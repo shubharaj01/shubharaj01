@@ -59,6 +59,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
   <img src="https://img.shields.io/badge/GitHub-E8AFC2?style=for-the-badge&logo=github&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
   <img src="https://img.shields.io/badge/VS%20Code-E8AFC2?style=for-the-badge&logo=visualstudiocode&logoColor=4A2C3A&labelColor=E8AFC2&color=E8AFC2"/>
 </p>
+
 ---
 
 ## GitHub Streak
@@ -89,16 +90,21 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ## Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/m-v-shubha-89611341a">
-<img src="https://img.shields.io/badge/LinkedIn-E8C7E8?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<p align="center">
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/◉-GitHub-F8C8DC?style=flat&logo=github&logoColor=4A2C3A&labelColor=F8C8DC"/>
 </a>
 
-<a href="mailto:shubharaj1924@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F8D7DA?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/◉-LinkedIn-F8C8DC?style=flat&logo=linkedin&logoColor=4A2C3A&labelColor=F8C8DC"/>
 </a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/◉-Email-F8C8DC?style=flat&logo=gmail&logoColor=4A2C3A&labelColor=F8C8DC"/>
+</a>
+
 </p>
-
 ---
 
 <p align="center">
