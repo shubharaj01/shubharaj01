@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&customColorList=25,26,27,30&text=main()&fontSize=50&fontColor=ffffff&animation=fadeIn"
-    alt="main() banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=14,17,19,24&text=hello,%20world.&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42"
+    width="100%"
   />
 </p>
 
