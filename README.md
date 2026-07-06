@@ -90,15 +90,32 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ## Connect With Me
 
-<p>
-<img src="https://cdn.simpleicons.org/github/F8C8DC" width="20"/> <a href="">GitHub</a>
-&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn.simpleicons.org/linkedin/F8C8DC" width="20"/> <a href="">LinkedIn</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://github.com/yourusername">
+<img src="https://cdn.simpleicons.org/github/F8C8DC" width="38"><br>
+<b>GitHub</b>
+</a>
+</td>
 
-<img src="https://cdn.simpleicons.org/gmail/F8C8DC" width="20"/> <a href="">Email</a>
-</p>
+<td align="center">
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://cdn.simpleicons.org/linkedin/F8C8DC" width="38"><br>
+<b>LinkedIn</b>
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:your@email.com">
+<img src="https://cdn.simpleicons.org/gmail/F8C8DC" width="38"><br>
+<b>Email</b>
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
