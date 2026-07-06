@@ -14,21 +14,19 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ---
 
-## 🌸 About Me
-
 ```text
-╭──────────────────────────────────────────────────────────────────────────────────╮
+┌─ About Me ────────────────────────────────────────────────────────────────────────┐
 
-  I'm someone who enjoys breaking down complex ideas, learning new technologies,
-  and building solutions that make a real impact.
+  I'm someone who enjoys breaking down complex ideas, learning new
+  technologies, and building solutions that make a real impact.
 
-  Focus Areas:
-  Artificial Intelligence • Machine Learning • Cloud Computing • Backend Development
+  Focus Areas: Artificial Intelligence • Machine Learning • Cloud
+  Computing • Backend Development
 
-  Beyond code, you'll often find me learning Japanese or exploring
-  something completely new because I believe growth comes from staying curious.
+  Beyond code, you'll often find me learning Japanese or exploring something
+  completely new because I believe growth comes from staying curious.
 
-╰──────────────────────────────────────────────────────────────────────────────────╯
+└───────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
