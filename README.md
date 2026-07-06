@@ -82,15 +82,13 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 ---
 
-## GitHub Streak
-
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=shubharaj01&theme=rose-pine&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFF8FC&ring=E8B4F8&fire=F8BBD0&currStreakLabel=8E6A82&currStreakNum=5C4B5E&sideNums=5C4B5E&sideLabels=8E6A82&dates=B79AC8" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubharaj01&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=fadadd&area=true&hide_border=true&custom_title=Shubha's%20Contribution%20Graph" />
