@@ -37,10 +37,10 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="42"/>
-  <img src="https://skillicons.dev/icons?i=java" height="42"/>
-  <img src="https://skillicons.dev/icons?i=c" height="42"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F7C6D9?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### AI & Development
