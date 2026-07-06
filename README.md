@@ -19,30 +19,30 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="68%" valign="top">
 
 I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact.
 
-<br><br>
-
-**Focus Areas**
-
-Artificial Intelligence • Machine Learning • Cloud Computing • Backend Development
-
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/AI-3B2436?style=for-the-badge&logo=openai&logoColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/ML-3B2436?style=for-the-badge&logo=tensorflow&logoColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Cloud-3B2436?style=for-the-badge&logo=icloud&logoColor=F8C8DC"/>
+  <img src="https://img.shields.io/badge/Backend-3B2436?style=for-the-badge&logo=fastapi&logoColor=F8C8DC"/>
+</p>
 
 Beyond code, you'll often find me learning Japanese or exploring something completely new because I believe growth comes from staying curious.
 
 </td>
 
-<td width="30%" align="center">
+<td width="32%" align="center" valign="middle">
 
-<img src="YOUR_GIF_URL" width="190"/>
+<img src="YOUR_GIF_URL" width="210"/>
 
 </td>
 
 </tr>
 </table>
+
 ---
 
 ## Tech Stack
