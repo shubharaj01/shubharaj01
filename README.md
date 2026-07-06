@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=2E2E2E&center=true&vCenter=true&width=650&lines=%E2%9D%AF+%3CHello%2C+World!+%2F%3E" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=2E2E2E&center=true&vCenter=true&width=700&lines=%E2%9D%AF+%3CHello%2C+World!+%2F%3E" />
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
