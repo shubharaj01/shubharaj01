@@ -1,9 +1,5 @@
 <p align="center">
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&text=Hello,%20World!&fontSize=46&fontColor=F8BBD0&animation=fadeIn&fontAlignY=40&reversal=true"
-width="100%"
-alt="Hello, World!"
-/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=2E2E2E&center=true&vCenter=true&width=650&lines=%E2%9D%AF+%3CHello%2C+World!+%2F%3E" />
 </p>
 
 <h2 align="center">Welcome to My Digital Workspace</h2>
