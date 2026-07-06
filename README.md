@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=27,28,29,30&text=Hello,%20World!&fontSize=46&fontColor=000000&animation=fadeIn&fontAlignY=40&reversal=true"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,13,14,20&text=Hello,%20World!&fontSize=46&fontColor=000000&animation=fadeIn&fontAlignY=40&reversal=true"
     width="100%"
     alt="Hello, World!"
   />
