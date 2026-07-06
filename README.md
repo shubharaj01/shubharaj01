@@ -14,7 +14,7 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ---
 
-## About Me
+## 🌸 About Me
 
 <table>
 <tr>
@@ -22,6 +22,10 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 <td width="68%" valign="top">
 
 I'm someone who enjoys breaking down complex ideas, learning new technologies, and building solutions that make a real impact.
+
+<br>
+
+**Areas of Interest**
 
 <p>
   <img src="https://img.shields.io/badge/AI-3B2436?style=for-the-badge&logo=openai&logoColor=F8C8DC"/>
@@ -36,7 +40,7 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 <td width="32%" align="center" valign="middle">
 
-<img src="YOUR_GIF_URL" width="210"/>
+<img src="YOUR_GIF_URL" width="220"/>
 
 </td>
 
