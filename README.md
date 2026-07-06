@@ -91,15 +91,15 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/m-v-shubha-89611341a">
     <img src="https://img.shields.io/badge/LinkedIn-2D1F2D?style=for-the-badge&logo=linkedin&logoColor=F8C8DC" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:shubharaj1924@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2D1F2D?style=for-the-badge&logo=gmail&logoColor=F8C8DC" />
   </a>
 
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/shubha_raj/">
     <img src="https://img.shields.io/badge/LeetCode-2D1F2D?style=for-the-badge&logo=leetcode&logoColor=F8C8DC" />
   </a>
 </p>
