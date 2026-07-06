@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=190&color=timeGradient&text=hello,%20world.&fontSize=46&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=180&color=timeGradient&text=Hello,%20World!&fontSize=48&fontColor=F8BBD0&animation=fadeIn&fontAlignY=55"
     width="100%"
-    alt="Banner"
+    alt="Hello, World!"
   />
 </p>
 
