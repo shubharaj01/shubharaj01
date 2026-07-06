@@ -31,32 +31,39 @@ A collection of ideas, experiments, and everything I'm learning along the way.
 
 ---
 
-## Tech Stack
+```text
+┌─ Tech Stack ──────────────────────────────────────────────────────────────────────┐
+```
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java" height="42"/>
+  <img src="https://skillicons.dev/icons?i=c" height="42"/>
 </p>
 
 ### AI & Development
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-9B6DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="42"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="42"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="42"/>
 </p>
 
 ### Cloud & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="42"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="42"/>
+  <img src="https://skillicons.dev/icons?i=git" height="42"/>
+  <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
 </p>
+
+```text
+└───────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
