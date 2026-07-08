@@ -81,7 +81,7 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubharaj01&theme=default&hide_border=true&background=FFFFFF00&ring=E8C8F6&fire=F8BBD0&currStreakNum=4B3B4E&sideNums=4B3B4E&currStreakLabel=B784C7&sideLabels=B784C7&dates=D6B8E8" />
+  <img src="https://streak-stats.demolab.com?user=shubharaj01&theme=transparent&hide_border=true&date_format=" />
 </p>
 
 ---
