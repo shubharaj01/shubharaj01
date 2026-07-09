@@ -28,7 +28,7 @@ I'm someone who enjoys breaking down complex ideas, learning new technologies, a
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-3B2436?style=flat&logo=openai&logoColor=F8C8DC"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-3B2436?style=flat&logo=tensorflow&logoColor=F8C8DC"/>
 <img src="https://img.shields.io/badge/Cloud-3B2436?style=flat&logo=icloud&logoColor=F8C8DC"/>
-<img src="https://img.shields.io/badge/Backend-3B2436?style=flat&logo=fastapi&logoColor=F8C8DC"/>
+<img src="https://img.shields.io/badge/frontend-3B2436?style=flat&logo=fastapi&logoColor=F8C8DC"/>
 </p>
 
 Beyond code, you'll often find me learning Japanese or exploring something completely new because I believe growth comes from staying curious.
@@ -62,18 +62,20 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-3B2436?style=for-the-badge&logo=tensorflow&logoColor=F8C8DC" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/FastAPI-3B2436?style=for-the-badge&logo=fastapi&logoColor=F8C8DC" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-3B2436?style=for-the-badge&logo=openai&logoColor=F8C8DC" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Data%20Structures-3B2436?style=for-the-badge&logoColor=F8C8DC" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/FastAPI-3B2436?style=for-the-badge&logo=fastapi&logoColor=F8C8DC" alt="FastAPI"/>
 </p>
 
 ### Cloud & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-3B2436?style=for-the-badge&logo=amazonaws&logoColor=F8C8DC" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-3B2436?style=for-the-badge&logo=git&logoColor=F8C8DC" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-3B2436?style=for-the-badge&logo=github&logoColor=F8C8DC" alt="GitHub"/>
+   <img src="https://img.shields.io/badge/Git-3B2436?style=for-the-badge&logo=git&logoColor=F8C8DC" alt="Git"/>
+   <img src="https://img.shields.io/badge/AWS-3B2436?style=for-the-badge&logo=amazonaws&logoColor=F8C8DC" alt="AWS"/>
   <img src="https://img.shields.io/badge/VS%20Code-3B2436?style=for-the-badge&logo=visualstudiocode&logoColor=F8C8DC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Stitch-3B2436?style=for-the-badge&logo=googlestitch&logoColor=F8C8DC" alt="Stitch"/>
+  <img src="https://img.shields.io/badge/Canva-382436?style=for-the-badge&logo=canva&logocolor=F8C8DC" alt=Canva"/>
+ <img src="https://img.shields.io/badge/GitHub-3B2436?style=for-the-badge&logo=github&logoColor=F8C8DC" alt="GitHub"/>
 </p>
 
 ---
@@ -86,9 +88,6 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 ---
 
-## Contribution Graph
-
----
 
 ## Contribution Graph
 
