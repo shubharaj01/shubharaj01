@@ -73,7 +73,6 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
    <img src="https://img.shields.io/badge/Git-3B2436?style=for-the-badge&logo=git&logoColor=F8C8DC" alt="Git"/>
    <img src="https://img.shields.io/badge/AWS-3B2436?style=for-the-badge&logo=amazonaws&logoColor=F8C8DC" alt="AWS"/>
   <img src="https://img.shields.io/badge/VS%20Code-3B2436?style=for-the-badge&logo=visualstudiocode&logoColor=F8C8DC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Stitch-3B2436?style=for-the-badge&logo=googlestitch&logoColor=F8C8DC" alt="Stitch"/>
   <img src="https://img.shields.io/badge/Canva-382436?style=for-the-badge&logo=canva&logocolor=F8C8DC" alt=Canva"/>
  <img src="https://img.shields.io/badge/GitHub-3B2436?style=for-the-badge&logo=github&logoColor=F8C8DC" alt="GitHub"/>
 </p>
