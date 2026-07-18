@@ -79,14 +79,6 @@ Beyond code, you'll often find me learning Japanese or exploring something compl
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=shubharaj01&theme=rose-pine&hide_border=true"/>
-</p>
-
----
-
 
 ## Contribution Graph
 
